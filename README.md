@@ -5,3 +5,6 @@ These are two particularly interesting articles regarding a new and emerging tec
 [Beyond deep fakes: Transforming video content into another video's style, automatically](https://www.sciencedaily.com/releases/2018/09/180911083145.htm)
 
 [Can you tell a fake video from a real one?](https://www.abc.net.au/news/2018-09-27/fake-news-part-one/10308638)
+
+
+This technology is very interesting but leads to alot of ethical concerns. For instance, video evidence can no longer be trusted in court. __-Dhanvin Manoo__ 
